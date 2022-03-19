@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+background-color: #f8ae32;
+}
+
+img{
+    align-items: center;
+    justify-content: center;
+    
+    width: 70%;
+    margin: 0px 200px ;
+}
